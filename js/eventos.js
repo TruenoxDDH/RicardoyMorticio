@@ -1,4 +1,3 @@
-
 import { creaCard, spinner, modalBody } from './ui.js';
 
 export const urlBase = 'https://rickandmortyapi.com/api/character/';
